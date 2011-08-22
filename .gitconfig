@@ -1,0 +1,7 @@
+[user]
+	name = Katie Park
+	email = katie.sang.park@gmali.com
+[alias]
+	co = checkout
+[core]
+	editor = gvim -f
